@@ -1,6 +1,6 @@
-# Note Taker
+  # Note Taker
 
-
+  https://user-images.githubusercontent.com/74982034/121119237-468ec080-c7e9-11eb-9d27-686d911c1622.mp4
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
